@@ -1,0 +1,1 @@
+Chatgpt- Helped me fix an error in the code I had regarding the rows and columns of the teams.
