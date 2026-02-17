@@ -19,7 +19,7 @@ Implement algorithms – Implement one or more algorithms that use loops and log
 
 Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README.
 
-![UML Diagram for my project](Copy of Unit 5 - UML Diagram.png)
+![UML Diagram for my project](Screenshot 2026-02-17 at 10.55.48AM.png)
 
 ## Video
 
